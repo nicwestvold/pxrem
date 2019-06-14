@@ -2,6 +2,13 @@
 name = "pxrem"
 version = "0.1.0"
 authors = ["Nic Westvold <nicwestvold@gmail.com>"]
+license = "MIT"
+description = "A tool to convert pixel to em value"
+readme = "README.md"
+homepage = "https://github.com/nicwestvold/pxrem"
+repository = "https://github.com/nicwestvold/pxrem"
+keywords = ["cli", "pixel", "rem"]
+categories = ["command-line-utilities"]
 edition = "2018"
 
 [dependencies]
