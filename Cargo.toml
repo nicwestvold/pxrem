@@ -1,0 +1,10 @@
+[package]
+name = "pxrem"
+version = "0.1.0"
+authors = ["Nic Westvold <nicwestvold@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+exitfailure = "0.5.1"
+failure = "0.1.5"
+structopt = "0.2.16"
