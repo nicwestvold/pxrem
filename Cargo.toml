@@ -1,9 +1,9 @@
 [package]
 name = "pxrem"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Nic Westvold <nicwestvold@gmail.com>"]
 license = "MIT"
-description = "A tool to convert pixel to em value"
+description = "A tool to convert pixel to rem value"
 readme = "README.md"
 homepage = "https://github.com/nicwestvold/pxrem"
 repository = "https://github.com/nicwestvold/pxrem"
