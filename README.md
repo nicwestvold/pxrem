@@ -13,7 +13,7 @@ Easily convert pixels to rem.
 > pxrem 19 -p 2
 1.19
 
-# specify the base pixel size to use for the calculation (default: 16px)
+# specify the base pixel size to use (default: 16px)
 > pxrem 19 -b 10
 1.9
 ```
