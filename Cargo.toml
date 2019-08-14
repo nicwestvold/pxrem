@@ -1,6 +1,6 @@
 [package]
 name = "pxrem"
-version = "0.3.2"
+version = "0.3.3"
 authors = ["Nic Westvold <nicwestvold@gmail.com>"]
 license = "MIT"
 description = "A tool to convert pixel to rem value"

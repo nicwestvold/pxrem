@@ -129,7 +129,7 @@ dependencies = [
 
 [[package]]
 name = "pxrem"
-version = "0.3.2"
+version = "0.3.3"
 dependencies = [
  "exitfailure 0.5.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "failure 0.1.5 (registry+https://github.com/rust-lang/crates.io-index)",
