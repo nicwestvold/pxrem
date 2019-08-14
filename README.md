@@ -16,4 +16,8 @@ Easily convert pixels to rem.
 # specify the base pixel size to use (default: 16px)
 > pxrem 19 -b 10
 1.9
+
+# get the pixel value for a given rem value
+> pxrem 2.25 -r
+36
 ```
